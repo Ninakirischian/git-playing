@@ -1,0 +1,4 @@
+.DS_Store
+
+ignore*
+# if you want to ignore folders 
